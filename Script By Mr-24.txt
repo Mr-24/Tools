@@ -1,0 +1,9 @@
+Tools By Mr-24
+
+pkg update && pkg upgrade
+pkg install figlet
+pkg install ruby
+gem install lolcat
+pkg install nano
+git clone https://github.com/Mr-24-boop/Tools.git
+./mr24.sh
